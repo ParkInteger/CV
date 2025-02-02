@@ -1,5 +1,5 @@
 
-# Student name
+# Jeongsu Park
 
 <img src="https://www.nosm.ca/wp-content/uploads/2024/01/Photo-placeholder-1024x1024.jpg" alt="Profile Picture" width="150" height="150">
 
